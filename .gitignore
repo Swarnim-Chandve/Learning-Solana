@@ -1,0 +1,16 @@
+# Ignore specific files and folders in day_1 and day_2
+day_1/.anchor
+day_1/.DS_Store
+day_1/target/
+day_1/**/*.rs.bk
+day_1/node_modules/
+day_1/test-ledger/
+day_1/.yarn/
+
+day_2/.anchor
+day_2/.DS_Store
+day_2/target/
+day_2/**/*.rs.bk
+day_2/node_modules/
+day_2/test-ledger/
+day_2/.yarn/
